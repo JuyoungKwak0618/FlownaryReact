@@ -1,0 +1,18 @@
+.editor-container {
+  border: 1px solid #c1c1c1;
+  padding: 10px;
+  min-height: 500px;
+  border-radius: 0.5%;
+  margin-top: 80px;
+  position: relative;
+  font-size: 18px;
+}
+
+.editor {
+  min-height: 500px;
+}
+
+.editor-header {
+  display: flex;
+  justify-content: flex-end;
+}

@@ -1,0 +1,118 @@
+{
+  "name": "material-dashboard-2-react",
+  "version": "2.2.0",
+  "private": true,
+  "author": "Creative Tim",
+  "license": "See license in https://www.creative-tim.com/license",
+  "description": "React version of Material Dashboard 2 by Creative Tim",
+  "bugs": {
+    "url": "https://github.com/creativetimofficial/material-dashboard-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/material-dashboard-react.git"
+  },
+  "dependencies": {
+    "@cloudinary/react": "^1.13.0",
+    "@cloudinary/url-gen": "^1.19.0",
+    "@emailjs/browser": "^4.3.3",
+    "@emotion/cache": "11.10.8",
+    "@emotion/react": "11.10.8",
+    "@emotion/styled": "11.10.8",
+    "@faker-js/faker": "^8.4.1",
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@iconify/react": "^4.1.1",
+    "@mui/icons-material": "5.11.16",
+    "@mui/joy": "^5.0.0-beta.36",
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "5.12.3",
+    "@mui/x-data-grid": "^7.6.0",
+    "@mui/x-date-pickers": "^7.4.0",
+    "@stomp/stompjs": "^7.0.0",
+    "@tanstack/react-query": "^5.36.2",
+    "apexcharts": "^3.49.1",
+    "axios": "^1.6.8",
+    "chart.js": "4.3.0",
+    "chroma-js": "2.4.2",
+    "cloudinary": "^2.2.0",
+    "cross-spawn": "^7.0.3",
+    "date-fns": "^3.6.0",
+    "dayjs": "^1.11.11",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "emailjs-com": "^3.2.0",
+    "firebase": "^10.11.1",
+    "gh-pages": "^6.1.1",
+    "http-proxy-middleware": "^3.0.0",
+    "numeral": "^2.0.6",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-chartjs-2": "5.2.0",
+    "react-dev-utils": "^12.0.1",
+    "react-dom": "18.2.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-github-btn": "1.4.0",
+    "react-input-emoji": "^5.9.0",
+    "react-material-ui-carousel": "^3.4.2",
+    "react-modal": "^3.16.1",
+    "react-query": "^3.39.3",
+    "react-router-dom": "6.11.0",
+    "react-scripts": "5.0.1",
+    "react-swipeable-views": "^0.14.0",
+    "react-table": "7.8.0",
+    "simplebar-react": "^3.2.5",
+    "sockjs-client": "^1.6.1",
+    "stompjs": "^2.3.3",
+    "stylis": "4.1.4",
+    "stylis-plugin-rtl": "^2.1.1",
+    "sweetalert2": "^11.11.0",
+    "timeago-react": "^3.0.6",
+    "yup": "1.1.1"
+  },
+  "proxy": "http://localhost:8090",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "8.39.0",
+    "eslint-config-prettier": "8.8.0",
+    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-jsx-a11y": "6.7.1",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint-plugin-react": "7.32.2",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "prettier": "2.8.8"
+  },
+  "overrides": {
+    "svgo": "3.0.2"
+  }
+}

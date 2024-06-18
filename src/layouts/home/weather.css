@@ -1,0 +1,18 @@
+.weather-box {
+  border: 3px solid #ffc107;
+  padding: 30px 50px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 650px;
+  background-color: #48aac09d;
+}
+
+.weather-btn {
+  border: 3px solid black;
+  padding: 20px 50px;
+  border-radius: 10px;
+  background-color: black;
+  width: 650px;
+  display: flex;
+  justify-content: center;
+}

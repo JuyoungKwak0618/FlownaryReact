@@ -1,0 +1,37 @@
+.message {
+    font-size: 1rem;
+    /* 글자 크기 설정*/
+    background-color: rgb(240, 200, 222);
+    /* 배경색 설정 */
+    border-radius: 50px;
+    /* 테두리를 둥글게 만듭니다. */
+    padding: 0dvh 4dvh 0dvh 4dvh;
+    /* 내용과 테두리 사이의 간격 설정 */
+    margin: 20px 0px 10.5px 5px;
+    /* 채팅 버블 간의 간격 설정 */
+    max-width: 100%;
+    /* 채팅 버블의 최대 너비 설정 */
+    max-height: 100%;
+    color: rgb(152, 57, 168);
+    display:flex;
+    align-items: center;
+}
+
+.othermessage {
+    font-size: 1rem;
+    /* 글자 크기 설정*/
+    background-color: rgb(196, 231, 227);
+    /* 배경색 설정 */
+    border-radius: 50px;
+    /* 테두리를 둥글게 만듭니다. */
+    padding: 0dvh 4dvh 0dvh 4dvh;
+    /* 내용과 테두리 사이의 간격 설정 */
+    margin: 10px 0 10.5px 5px;
+    /* 채팅 버블 간의 간격 설정 */
+    max-width: 100%;
+    /* 채팅 버블의 최대 너비 설정 */
+    max-height: 50px;
+    color: rgb(144, 115, 224);
+    display:flex;
+    align-items: center;
+}

@@ -1,0 +1,17 @@
+.uploadlist {
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  margin: 2px;
+}
+
+.uploaditem {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

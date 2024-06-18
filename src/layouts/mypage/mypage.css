@@ -1,0 +1,119 @@
+/* tableCSS */
+.tableContainer {
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+  border: 2px solid rgb(76, 0, 153);
+  border-radius: 15px;
+}
+
+/* bookmarkCSS */
+.bookmarkContainer {
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+  border-top: 2px solid rgb(70, 70, 70);
+  border-bottom: 2px solid rgb(70, 70, 70);
+}
+
+/* mypage 토글 버튼 CSS*/
+.msg_button {
+  height: '15%';
+  color: rgb(212, 199, 238);
+  background-color: rgb(88, 67, 135);
+  border: 1px solid  rgb(162, 152, 182);
+  cursor: pointer;
+  margin: 10px;
+}
+
+.msg_button:hover:active {
+  height: '15%';
+  background-color: rgb(115, 97, 188);
+}
+
+
+/* 
+  profile, search
+*/
+
+.uploadlist {
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  margin: 2px;
+}
+
+.uploaditem {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*
+Mypage
+*/
+
+/* tableCSS */
+.tableContainer {
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+  border: 2px solid rgb(76, 0, 153);
+  border-radius: 15px;
+}
+
+/* bookmarkCSS */
+.bookmarkContainer {
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+  border-top: 2px solid rgb(70, 70, 70);
+  border-bottom: 2px solid rgb(70, 70, 70);
+}
+
+/* mypage 토글 버튼 CSS*/
+.msg_button {
+  height: '15%';
+  color: rgb(212, 199, 238);
+  background-color: rgb(88, 67, 135);
+  border: 1px solid  rgb(162, 152, 182);
+  cursor: pointer;
+  margin: 10px;
+}
+
+.msg_button:hover:active {
+  height: '15%';
+  background-color: rgb(115, 97, 188);
+}
+
+
+/* 
+  profile, search
+*/
+
+.uploadlist {
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  margin: 2px;
+}
+
+.uploaditem {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,349 @@
+/* 모달 스타일 */
+/* .board_modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 80%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.5);
+} */
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* .search_modal {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60%;
+  height: 5%;
+  background-color: white;
+  border: 2px solid #000;
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.5);
+  padding: 20px 10px 20px 20px;
+} */
+
+/* FlexContainer 스타일 */
+/* .board_div_style_1 {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  border-top: 1px solid lightgrey;
+}
+
+.board_div_style_2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex-direction: 'column'; 
+  align-items: 'center',
+} */
+
+.custom-input {
+  padding: 10px 15px;
+  font-size: 0.85rem;
+  width: 100%;
+  border: none; /* 전체 경계 제거 */
+  border-bottom: 1px solid rgb(161, 158, 158); /* 기본 상태에서 투명한 밑줄 */
+  outline: none; /* 포커스 시 기본 아웃라인 제거 */
+  transition: border-bottom 0.5s ease;
+}
+
+.custom-input:focus {
+  border-bottom: 1px solid black; /* 포커스 시 얇은 회색 밑줄 */
+}
+
+/* InputEmoji 스타일 */
+.react-input-emoji--container {
+  color: #4b4b4b;
+  text-rendering: optimizeLegibility;
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 21px;
+  margin: 5px 10px;
+  box-sizing: border-box;
+  flex: 1 1 auto;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 20px;
+  min-height: 20px;
+  min-width: 0;
+  outline: none;
+  width: inherit;
+  will-change: width;
+  vertical-align: baseline;
+  border: 1px solid #eaeaea;
+  margin-right: 0;
+}
+
+.react-input-emoji--wrapper {
+  display: flex;
+  overflow: hidden;
+  flex: 1;
+  position: relative;
+  padding-right: 0;
+  vertical-align: baseline;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.react-input-emoji--input {
+  font-weight: 400;
+  max-height: 100px;
+  min-height: 20px;
+  outline: none;
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: relative;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  z-index: 1;
+  width: 100%;
+  user-select: text;
+  padding: 9px 43px 11px 45px;
+  text-align: left;
+}
+
+.react-input-emoji--input img {
+  vertical-align: middle;
+  width: 18px !important;
+  height: 18px !important;
+  display: inline !important;
+  margin-right: 1px;
+}
+
+.react-input-emoji--overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 9;
+}
+
+.react-input-emoji--placeholder {
+  color: #a0a0a0;
+  pointer-events: none;
+  position: absolute;
+  user-select: none;
+  z-index: 2;
+  left: 16px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  width: calc(100% - 22px);
+  left: 45px;
+}
+
+.react-input-emoji--button {
+  position: absolute;
+  left: 14px;
+  z-index: 2;
+  display: block;
+  text-align: center;
+  padding: 0 10px;
+  overflow: hidden;
+  transition: color 0.1s ease-out;
+  margin: 0;
+  box-shadow: none;
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.react-input-emoji--button svg {
+  fill: #858585;
+}
+
+.react-input-emoji--button__show svg {
+  fill: #128b7e;
+}
+
+.react-emoji {
+  display: flex;
+  align-items: center;
+  position: relative;
+  width: 100%;
+}
+
+.react-emoji-picker--container {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.react-emoji-picker--wrapper {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 435px;
+  width: 352px;
+  overflow: hidden;
+  z-index: 10;
+}
+
+.react-emoji-picker {
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: slidein 0.1s ease-in-out;
+}
+
+.react-emoji-picker__show {
+  top: 0;
+}
+
+.react-input-emoji--mention--container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.react-input-emoji--mention--list {
+  background-color: #fafafa;
+  border: 1px solid #eaeaea;
+  border-radius: 4px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+}
+
+.react-input-emoji--mention--item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px 10px;
+  background-color: transparent;
+  width: 100%;
+  margin: 0;
+  border: 0;
+}
+
+.react-input-emoji--mention--item__selected {
+  background-color: #eeeeee;
+}
+
+.react-input-emoji--mention--item--img {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+}
+
+.react-input-emoji--mention--item--name {
+  font-size: 16px;
+  color: #333;
+}
+
+.react-input-emoji--mention--item--name__selected {
+  color: green;
+}
+
+.react-input-emoji--mention--text {
+  color: #039be5;
+}
+
+.react-input-emoji--mention--loading {
+  background-color: #fafafa;
+  border: 1px solid #eaeaea;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.react-input-emoji--mention--loading--spinner,
+.react-input-emoji--mention--loading--spinner::after {
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+}
+
+.react-input-emoji--mention--loading--spinner {
+  margin: 1px auto;
+  font-size: 2px;
+  position: relative;
+  text-indent: -9999em;
+  border-top: 1.1em solid rgba(0, 0, 0, 0.1);
+  border-right: 1.1em solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1.1em solid rgba(0, 0, 0, 0.1);
+  border-left: 1.1em solid rgba(0, 0, 0, 0.4);
+  transform: translateZ(0);
+  animation: load8 1.1s infinite linear;
+}
+
+@keyframes load8 {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes slidein {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+.replyOpen{
+  border: none;
+  background: none;
+  color: inherit;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.replyClose{
+  border: none;
+  background: none;
+  color: blue;
+  margin-left: 3px;
+  font: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.customHeartBtn{
+  color: rgba(216, 191, 216, 1)
+}
+.customHeartBtn:hover{
+  color:red
+}
+
+.customBtn{
+  color: rgba(216, 191, 216, 1)
+}
+/* 
+node_modules에서 react-input-emoji 폴더 들어가서
+index.es.js(5~31)와 index.js(12~28) styleInject함수 주석처리 진행
+*/

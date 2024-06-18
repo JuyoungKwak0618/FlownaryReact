@@ -1,0 +1,323 @@
+/* ============================폰트============================ */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+p,
+a,
+span,
+div {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* ============================ 로그인 전체 부분 css ============================ */
+.background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: 0.5s ease-in-out;
+}
+
+.cardMain {
+    text-align: center;
+    width: 83vw;
+    padding: 3%;
+    box-sizing: border-box;
+    height: auto;
+    border-radius: 10px;
+    background: transparent !important;
+    backdrop-filter: blur(15px) !important;
+}
+
+.loginBox {
+    animation: fadeIn 3s ease forwards;
+    padding: 35px;
+}
+
+.commonInputStyle {
+    text-align: center;
+    width: 40%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 15px;
+    margin: 0.65%;
+    border: 1px solid whitesmoke;
+    opacity: 0.65;
+}
+
+.commonInputStyle:focus {
+    width: 45%;
+    transition: 0.5s;
+}
+
+/* ============================기본 버튼============================ */
+.fill,
+.custom-button {
+    width: 20%;
+    background: none;
+    border-radius: 35px;
+    border: 2px solid;
+    font: inherit;
+    font-size: 15px;
+    line-height: 1;
+    padding: 1em 2em;
+    transition: 0.25s;
+    color: inherit;
+    border-color: inherit;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+}
+
+/* ============================기본 버튼 호버 및 포커스 상태============================ */
+.fill:hover,
+.fill:focus,
+.custom-button:hover,
+.custom-button:focus {
+    box-shadow: inset 0 0 0 3em var(--hover);
+    color: white;
+}
+
+
+/* ============================라이트테마============================ */
+.light .custom-button,
+.light .fill {
+    --color: #dca3e7;
+    --hover: rgb(28, 0, 53);
+    color: #dca3e7;
+    border-color: #dca3e7;
+}
+
+.light .custom-button:hover,
+.light .fill:hover {
+    background-color: rgb(28, 0, 53);
+}
+
+
+/* ============================라이트테마============================ */
+.light .cardMain {
+    border: 2.5px solid rgba(255, 255, 255, 0.4);
+}
+
+/* 환영 메세지 효과 */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.welcome-message {
+    opacity: 0;
+    animation: fadeIn 3s ease forwards;
+    margin-bottom: -3%;
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    color: #dca3e7;
+}
+
+.dark .welcome-message {
+    opacity: 0;
+    animation: fadeIn 3s ease forwards;
+    margin-bottom: -3%;
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+
+/* ============================화면 전환 애니메이션============================ */
+/* Fade-in and fade-out animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    to {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+}
+
+.fade-enter {
+    animation: fadeIn 0.35s ease-in-out forwards;
+}
+
+.fade-exit {
+    animation: fadeOut 0.35s ease-in-out forwards;
+}
+
+/* ============================모달 CSS============================ */
+.Modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    padding: 15rem;
+    width: 60vw;
+    height: 80vh;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.welcome-message-Modal {
+    opacity: 0;
+    animation: fadeIn 1.5s ease forwards;
+    margin-bottom: -3%;
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+}
+
+.Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.modal-content {
+    border: 1px solid rgba(128, 128, 128, 0);
+    background: transparent;
+    display: flex;
+    width: 80%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.register-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 45vh;
+}
+
+.commonInputStyle_Modal {
+    width: 100%;
+    padding: 10px;
+    margin: 7px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.fill_Modal {
+    width: 80%;
+    padding: 10px;
+    background: #6200ea;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.fill_Modal:hover {
+    transition: 0.5s;
+    background-color: #741ea7;
+}
+
+.google-login-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background: #4285f4;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.google-login-button:hover {
+    background: #0d53c4;
+    transition: 0.5s;
+
+}
+
+.google-login-button img {
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.close-modal-button {
+    margin-bottom: 1rem;
+    background: #ccc;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 20%;
+}
+
+.close-modal-button:hover {
+    transition: 0.45s;
+    background: red;
+    color: white;
+}
+
+/* ============================비밀번호 토글 라인============================ */
+.input-container {
+    position: relative;
+    width: 100%;
+}
+
+.input-container input {
+    width: 100%;
+    padding-right: 40px;
+    /* 아이콘 공간 확보 */
+    box-sizing: border-box;
+    /* 패딩과 테두리를 포함한 전체 너비 계산 */
+    transition: width 0.5s ease;
+    /* 애니메이션 추가 */
+}
+
+.password-toggle-icon {
+    font-size: 1.125rem;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
