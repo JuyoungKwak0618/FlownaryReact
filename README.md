@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/bdfe39bb-3b23-421b-a3b2-4e11cc912a61"width="400">
+  <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/bdfe39bb-3b23-421b-a3b2-4e11cc912a61">
   <br>
 </h1>
   
