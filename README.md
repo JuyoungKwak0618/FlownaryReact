@@ -1,8 +1,5 @@
-<h1 align="center">
-  <br>
-  <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/bdfe39bb-3b23-421b-a3b2-4e11cc912a61" width="500" height="400">
-  <br>
-</h1>
+# <span id="top"> Flownary </span>
+<img width="827" src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/bdfe39bb-3b23-421b-a3b2-4e11cc912a61">
   
 # Flownary React Project
 기간: 2024-04-16 ~ 2024-06-14<br/>
