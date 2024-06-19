@@ -1,3 +1,9 @@
+<h1 align="center">
+  <br>
+  <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/bdfe39bb-3b23-421b-a3b2-4e11cc912a61"width="400">
+  <br>
+</h1>
+  
 # Flownary React Project
 기간: 2024-04-16 ~ 2024-06-14<br/>
 인원: 6인 (FE 4, BE 1, DB 1) - 이윤주, 안순현, 정성한, 윤영준, 곽주영, 이병학<br/>
