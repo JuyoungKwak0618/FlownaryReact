@@ -8,53 +8,6 @@
 주제: SNS 사이트 만들기<br/>
 사용 언어: JS (React)<br/>
 
-## 팀원 소개
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 250px;">
-    <h3>김철수 (Team Leader / Backend Developer)</h3>
-    <p><strong>소개</strong>: 김철수는 팀 리더이자 백엔드 개발자입니다. 그는 10년 이상의 개발 경력을 가지고 있으며, 프로젝트의 전반적인 방향을 설정하고 팀을 이끌고 있습니다.</p>
-    <p><strong>GitHub</strong>: <a href="https://github.com/cheolsu-kim">github.com/cheolsu-kim</a></p>
-    <p><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/cheolsu-kim">linkedin.com/in/cheolsu-kim</a></p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 250px;">
-    <h3>이영희 (Frontend Developer)</h3>
-    <p><strong>소개</strong>: 이영희는 프론트엔드 개발자로, 사용자 친화적인 인터페이스를 만드는 데 중점을 두고 있습니다. 최신 프론트엔드 기술과 트렌드에 관심이 많습니다.</p>
-    <p><strong>GitHub</strong>: <a href="https://github.com/younghee-lee">github.com/younghee-lee</a></p>
-    <p><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/younghee-lee">linkedin.com/in/younghee-lee</a></p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 250px;">
-    <h3>박준호 (Full Stack Developer)</h3>
-    <p><strong>소개</strong>: 박준호는 풀스택 개발자로, 프론트엔드와 백엔드 모두를 다룰 수 있는 능력을 가지고 있습니다. 다양한 프로젝트 경험을 통해 종합적인 시각을 가지고 있습니다.</p>
-    <p><strong>GitHub</strong>: <a href="https://github.com/junho-park">github.com/junho-park</a></p>
-    <p><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/junho-park">linkedin.com/in/junho-park</a></p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 250px;">
-    <h3>최민수 (UI/UX Designer)</h3>
-    <p><strong>소개</strong>: 최민수는 UI/UX 디자이너로, 사용자 경험을 최적화하는 데 중점을 두고 있습니다. 직관적이고 아름다운 디자인을 만드는 데 열정이 있습니다.</p>
-    <p><strong>GitHub</strong>: <a href="https://github.com/minsu-choi">github.com/minsu-choi</a></p>
-    <p><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/minsu-choi">linkedin.com/in/minsu-choi</a></p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 250px;">
-    <h3>강지훈 (DevOps Engineer)</h3>
-    <p><strong>소개</strong>: 강지훈은 DevOps 엔지니어로, 시스템의 안정성과 효율성을 높이는 데 주력하고 있습니다. 클라우드 인프라와 자동화 도구에 대한 깊은 이해를 가지고 있습니다.</p>
-    <p><strong>GitHub</strong>: <a href="https://github.com/jihoon-kang">github.com/jihoon-kang</a></p>
-    <p><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/jihoon-kang">linkedin.com/in/jihoon-kang</a></p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 250px;">
-    <h3>윤서영 (QA Engineer)</h3>
-    <p><strong>소개</strong>: 윤서영은 QA 엔지니어로, 소프트웨어의 품질을 보장하기 위해 꼼꼼한 테스트와 검증 작업을 수행하고 있습니다. 그녀는 버그를 찾아내는 데 탁월한 능력을 가지고 있습니다.</p>
-    <p><strong>GitHub</strong>: <a href="https://github.com/seoyoung-yoon">github.com/seoyoung-yoon</a></p>
-    <p><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/seoyoung-yoon">linkedin.com/in/seoyoung-yoon</a></p>
-  </div>
-
-</div>
 
 ### [프로젝트 개요]
 본 프로젝트는 SNS 소셜 네트워크 플랫폼의 현재와 과거의 이용률을 분석하고, 4060세대의 활발한 SNS 활동을 반영하여, 전 세계의 다양한 연령층이 소통할 수 있는 최적의 플랫폼을 제공하는 것을 목표로 합니다. 특히 실버세대를 포함한 모든 세대에게 적합하고, 사용 편의성과 트렌디한 UI 디자인에 중점을 둔 서비스를 구현합니다.
