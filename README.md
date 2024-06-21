@@ -1,3 +1,4 @@
+readme 틀 짜고 있는중입니다.
 # <span id="top"> Flownary </span>
 <img width="840" height="600" src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/bdfe39bb-3b23-421b-a3b2-4e11cc912a61">
 
