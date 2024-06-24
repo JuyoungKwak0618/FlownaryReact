@@ -59,7 +59,7 @@ readme 틀 짜고 있는중입니다.
             <br>
             <strong>github:</strong> [링크]
             <br>
-             <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
+            <img src="https://img.shields.io/badge/FrontEnd-007acc">
         </td>
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04" height="180" width="180">
@@ -68,7 +68,7 @@ readme 틀 짜고 있는중입니다.
             <br>
             <strong>github:</strong> [링크]
             <br>
-            <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
+            <img src="https://img.shields.io/badge/FrontEnd-007acc">
         </td>
     </tr>
 </table>
