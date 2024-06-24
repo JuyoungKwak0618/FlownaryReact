@@ -24,7 +24,7 @@ readme 틀 짜고 있는중입니다.
  <div>
             <strong>BE 설계 및 구현</strong>
             <br>
-            <p>백엔드 전체적인 개발을 책임 및 담당</p>
+            <p>백엔드 전체적인 개발 담당</p>
         </div>
 </div>
         </td>
