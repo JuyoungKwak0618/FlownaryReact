@@ -69,7 +69,7 @@ readme 틀 짜고 있는중입니다.
             <div style="display: flex; align-items: center;">
                  <strong>FE 설계 및 구현</strong>
             <br>
-            <p>프론트엔드 개발 및 최적화를  담당</p>
+            <p>프론트엔드 개발 및 최적화를&nbsp;&nbsp;담당</p>
             </div>
         </td>
         <td align="center" style="height: 250px">
