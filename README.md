@@ -117,6 +117,7 @@ readme 틀 짜고 있는중입니다.
 
 ## Pages(route)
 #### home 홈
+<img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/884f5db7-51c4-48b2-9ad8-299592bb7d01">
 게시글 목록, 게시글 작성을 겸합니다
 #### login 로그인
 #### chatting 채팅
