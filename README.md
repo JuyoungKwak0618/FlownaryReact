@@ -20,7 +20,7 @@ readme 틀 짜고 있는중입니다.
             <br>
             <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-Team%20leader-yellow" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/BackEnd-3f97fb">
+    <img src="https://img.shields.io/badge/BackEnd-404040">
 </div>
         </td>
         <td align="center">
