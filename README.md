@@ -28,7 +28,7 @@ readme 틀 짜고 있는중입니다.
         </div>
 </div>
         </td>
-        <td align="center">
+        <td align="center" style="height: 250px">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5a5660a3-ac07-4c39-a792-944ee1edbd83" height="180" width="180">
             <br>
             <strong>💻 윤영준</strong>
@@ -42,7 +42,7 @@ readme 틀 짜고 있는중입니다.
             <p>데이터베이스 설계 및 관리를 담당</p>
         </div>
         </td>
-        <td align="center">
+        <td align="center" style="height: 250px">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5eb5bde5-261d-4e4c-ba43-11c1d0c2de05" height="180" width="180">
             <br>
             <strong>📈 이윤주</strong>
@@ -58,7 +58,7 @@ readme 틀 짜고 있는중입니다.
         </td>
     </tr>
     <tr>
-        <td align="center">
+        <td align="center" style="height: 250px">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/f15f0994-9331-4ce4-87b9-c83ce4d47ef1" height="180" width="180">
             <br>
             <strong>🎨 곽주영</strong>
@@ -72,7 +72,7 @@ readme 틀 짜고 있는중입니다.
             <p>프론트엔드 개발 및 최적화를 담당</p>
             </div>
         </td>
-        <td align="center">
+        <td align="center" style="height: 250px">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/c3402f3d-4b2b-4200-a4fc-b6d2d4b7b9a6" height="180" width="180">
             <br>
             <strong>🎨 정성한</strong>
@@ -85,7 +85,7 @@ readme 틀 짜고 있는중입니다.
             <br>
             <p>프론트엔드 개발과 친화적인 UI/UX를 담당</p>
         </td>
-        <td align="center">
+        <td align="center" style="height: 250px">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04" height="180" width="180">
             <br>
             <strong>🎨 안순현</strong>
