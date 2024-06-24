@@ -9,80 +9,21 @@ readme 틀 짜고 있는중입니다.
 주제: SNS 사이트 만들기<br/>
 사용 언어: JS (React)<br/>
 
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/baaede75-c7b1-4af9-9839-fd6b0365961c.jpg" height="180" width="180">
-            <br>
-            <strong>👑 이병학</strong>
-            <br>
-            <strong>github:</strong> [링크]
-            <br>
-            <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Team%20leader-yellow">
-            <br>
-            <img src="https://img.shields.io/badge/-Development%20leader-green">
-        </td>
-        <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/f15f0994-9331-4ce4-87b9-c83ce4d47ef1.jpg" height="180" width="180">
-            <br>
-            <strong>🎨 곽주영</strong>
-            <br>
-            <strong>github:</strong> [링크]
-            <br>
-            <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Design%20leader-purple">
-        </td>
-        <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04.jpg" height="180" width="180">
-            <br>
-            <strong>🎨 정성한</strong>
-            <br>
-            <strong>github:</strong> [링크]
-            <br>
-            <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Work%20Management%20leader-f67280">
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://user-images.githubusercontent.com/101047198/210600051-9a57a0fb-9d5b-4c6e-973a-8b95db914b34.jpg" height="180" width="180">
-            <br>
-            <strong>🎨 안순현</strong>
-            <br>
-            <strong>github:</strong> [링크]
-            <br>
-            <img src="https://img.shields.io/badge/BackEnd-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Communication%20Leader-orange">
-        </td>
-        <td align="center">
-            <img src="https://user-images.githubusercontent.com/101047198/210518384-87070850-bb83-462b-ad7c-b8b39fec5cac.jpg" height="180" width="180">
-            <br>
-            <strong>💻 윤영준</strong>
-            <br>
-            <strong>github:</strong> [링크]
-            <br>
-            <img src="https://img.shields.io/badge/BackEnd-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Tech%20Leader-blue">
-        </td>
-        <td align="center">
-            <img src="https://user-images.githubusercontent.com/101047198/210518384-87070850-bb83-462b-ad7c-b8b39fec5cac.jpg" height="180" width="180">
-            <br>
-            <strong>📈 이윤주</strong>
-            <br>
-            <strong>github:</strong> [링크]
-            <br>
-            <img src="https://img.shields.io/badge/DataScience-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Project%20Management%20Leader-green">
-        </td>
-    </tr>
-</table>
+|                                                                   **👑 이병학**                                                                   |                                                                  **🎨 곽주영**                                                                   |                                                                    **🎨 정성한**                                                                     |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                              <img height="180" width="180" src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/baaede75-c7b1-4af9-9839-fd6b0365961c">
+                             |     <img height="180" width="180" src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/f15f0994-9331-4ce4-87b9-c83ce4d47ef1">      |       <img height=180 width=180 src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04">        |
+|                 **github**:                  |      **github**:       |                </br> **github**:                  |
+| ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)</br> ![Team%20Leader](https://img.shields.io/badge/-Team%20leader-yellow) </br> ![Development%20Leader](https://img.shields.io/badge/-Development%20leader-green) | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)</br> ![Design%20Leader](https://img.shields.io/badge/-Design%20leader-purple) | ![FrontEnd](https://img.shields.io/badge/FrontEnd-3f97fb)</br> ![WorkManagement](https://img.shields.io/badge/-Work%20Management%20leader-f67280) |
+
+|                                                                   **🎨 안순현**                                                                   |                                                                  **💻 윤영준**                                                                   |                                                                    **📈 이윤주**                                                                     |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                               <img height=180 width=180>                               |     <img src="https://user-images.githubusercontent.com/101047198/210600051-9a57a0fb-9d5b-4c6e-973a-8b95db914b34.jpg" height=180 width=180>      |       <img src="https://user-images.githubusercontent.com/101047198/210518384-87070850-bb83-462b-ad7c-b8b39fec5cac.jpg" height=180 width=180>        |
+|                 **github**:                |      **github**:        |                   </br> **github**:                |
+| ![BackEnd](https://img.shields.io/badge/BackEnd-3f97fb)</br> ![Communication%20Leader](https://img.shields.io/badge/-Communication%20Leader-orange) | ![BackEnd](https://img.shields.io/badge/BackEnd-3f97fb)</br> ![Tech%20Leader](https://img.shields.io/badge/-Tech%20Leader-blue) | ![DataScience](https://img.shields.io/badge/DataScience-3f97fb)</br> ![ProjectManagement](https://img.shields.io/badge/-Project%20Management%20Leader-green) |
+
+<br/>
+
 
 <br/>
 
