@@ -60,7 +60,7 @@ readme 틀 짜고 있는중입니다.
             <img src="https://img.shields.io/badge/-Communication%20Leader-orange">
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/101047198/210518384-87070850-bb83-462b-ad7c-b8b39fec5cac.jpg" height="180" width="180">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/c3402f3d-4b2b-4200-a4fc-b6d2d4b7b9a6" height="180" width="180">
             <br>
             <strong>💻 윤영준</strong>
             <br>
@@ -71,7 +71,7 @@ readme 틀 짜고 있는중입니다.
             <img src="https://img.shields.io/badge/-Tech%20Leader-blue">
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/101047198/210518384-87070850-bb83-462b-ad7c-b8b39fec5cac.jpg" height="180" width="180">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5a5660a3-ac07-4c39-a792-944ee1edbd83" height="180" width="180">
             <br>
             <strong>📈 이윤주</strong>
             <br>
