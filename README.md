@@ -18,9 +18,10 @@ readme 틀 짜고 있는중입니다.
             <br>
             <strong>github:</strong> [링크]
             <br>
-            <img src="https://img.shields.io/badge/-Team%20leader-yellow">
-            <br>
-              <img src="https://img.shields.io/badge/BackEnd-3f97fb">
+            <div style="display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/-Team%20leader-yellow" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/BackEnd-3f97fb">
+</div>
         </td>
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5a5660a3-ac07-4c39-a792-944ee1edbd83" height="180" width="180">
