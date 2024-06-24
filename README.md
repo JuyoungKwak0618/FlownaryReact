@@ -30,8 +30,6 @@ readme 틀 짜고 있는중입니다.
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/Database-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Design%20leader-purple">
         </td>
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5eb5bde5-261d-4e4c-ba43-11c1d0c2de05" height="180" width="180">
@@ -42,7 +40,7 @@ readme 틀 짜고 있는중입니다.
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
             <br>
-            <img src="https://img.shields.io/badge/-Work%20Management%20leader-f67280">
+            <img src="https://img.shields.io/badge/-Work%20Management%20-f67280">
         </td>
     </tr>
     <tr>
