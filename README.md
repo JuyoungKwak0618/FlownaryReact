@@ -66,6 +66,10 @@ readme 틀 짜고 있는중입니다.
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-007acc">
+            <div style="display: flex; align-items: center;">
+                 <strong>FE 설계 및 구현</strong>
+            <br>
+            <p>프론트엔드 개발 및 최적화를 담당</p>
         </td>
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/c3402f3d-4b2b-4200-a4fc-b6d2d4b7b9a6" height="180" width="180">
@@ -75,6 +79,10 @@ readme 틀 짜고 있는중입니다.
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-007acc">
+            <div style="display: flex; align-items: center;">
+                 <strong>FE 구현 및 디자인</strong>
+            <br>
+            <p>프론트엔드 개발과 친화적인 UI/UX를 담당</p>
         </td>
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04" height="180" width="180">
@@ -83,7 +91,15 @@ readme 틀 짜고 있는중입니다.
             <br>
             <strong>github:</strong> [링크]
             <br>
-            <img src="https://img.shields.io/badge/FrontEnd-007acc">
+            <div style="display: flex; align-items: center;">
+            <img src="https://img.shields.io/badge/FrontEnd-007acc" style="margin-right: 10px;>
+            <img src="https://img.shields.io/badge/BackEnd-404040">
+               <div style="margin-top: 10px;">
+            <strong>FE/BE 설계 및 구현</strong>
+            <br>
+            <p>프론트/백엔드의 전반적인 개발 담당</p>
+        </div>
+</div>
         </td>
     </tr>
 </table>
