@@ -70,6 +70,7 @@ readme 틀 짜고 있는중입니다.
                  <strong>FE 설계 및 구현</strong>
             <br>
             <p>프론트엔드 개발 및 최적화를 담당</p>
+            </div>
         </td>
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/c3402f3d-4b2b-4200-a4fc-b6d2d4b7b9a6" height="180" width="180">
