@@ -21,6 +21,11 @@ readme 틀 짜고 있는중입니다.
             <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-Team%20Leader-yellow" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/BackEnd-404040">
+ <div style="margin-top: 10px;">
+            <strong>BE 설계 및 구현</strong>
+            <br>
+            <strong>백엔드 전체적인 개발을 책임 및 담당</strong>
+        </div>
 </div>
         </td>
         <td align="center">
