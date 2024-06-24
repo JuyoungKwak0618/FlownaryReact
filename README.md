@@ -45,7 +45,7 @@ readme 틀 짜고 있는중입니다.
         <td align="center" style="height: 250px">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5eb5bde5-261d-4e4c-ba43-11c1d0c2de05" height="180" width="180">
             <br>
-            <strong>📈 이윤주</strong>
+            <strong>✏️ 이윤주</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
