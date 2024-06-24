@@ -9,100 +9,92 @@ readme 틀 짜고 있는중입니다.
 주제: SNS 사이트 만들기<br/>
 사용 언어: JS (React)<br/>
 
-<table>
+<table style="width: 100%;">
     <tr>
-        <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/baaede75-c7b1-4af9-9839-fd6b0365961c" height="180" width="180">
+        <td align="center" style="vertical-align: top; width: 33.33%;">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/baaede75-c7b1-4af9-9839-fd6b0365961c" height="180" width="180" style="max-width: 100%; height: auto;">
             <br>
             <strong>👑 이병학</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
             <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/-Team%20Leader-yellow" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/BackEnd-404040">
- <div style="margin-top: 10px;">
-            <strong>BE 설계 및 구현</strong>
-            <br>
-            <p>백엔드 전체적인 개발을 책임 및 담당</p>
-        </div>
-</div>
+                <img src="https://img.shields.io/badge/-Team%20Leader-yellow" style="margin-right: 10px;">
+                <img src="https://img.shields.io/badge/BackEnd-404040">
+            </div>
+            <div style="margin-top: 10px;">
+                <strong>BE 설계 및 구현</strong>
+                <br>
+                <p>백엔드 전체적인 개발을 책임 및 담당</p>
+            </div>
         </td>
-        <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5a5660a3-ac07-4c39-a792-944ee1edbd83" height="180" width="180">
+        <td align="center" style="vertical-align: top; width: 33.33%;">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5a5660a3-ac07-4c39-a792-944ee1edbd83" height="180" width="180" style="max-width: 100%; height: auto;">
             <br>
             <strong>💻 윤영준</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/DataBase-008000">
-             <div style="display: flex; align-items: center;">
-                 <strong>DB 설계</strong>
-            <br>
-            <p>데이터베이스 설계 및 관리를 담당</p>
-        </div>
+            <div style="display: flex; align-items: center; margin-top: 10px;">
+                <strong>DB 설계</strong>
+                <br>
+                <p>데이터베이스 설계 및 관리를 담당</p>
+            </div>
         </td>
-        <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5eb5bde5-261d-4e4c-ba43-11c1d0c2de05" height="180" width="180">
+        <td align="center" style="vertical-align: top; width: 33.33%;">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5eb5bde5-261d-4e4c-ba43-11c1d0c2de05" height="180" width="180" style="max-width: 100%; height: auto;">
             <br>
             <strong>📈 이윤주</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/-Work%20Management%20-f67280">
-             <div style="display: flex; align-items: center;">
-                 <strong>기획</strong>
-            <br>
-            <p>프로젝트 기획 및 관리를 담당</p>
-        </div>
+            <div style="display: flex; align-items: center; margin-top: 10px;">
+                <strong>기획</strong>
+                <br>
+                <p>프로젝트 기획 및 관리를 담당</p>
+            </div>
         </td>
     </tr>
     <tr>
-        <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/f15f0994-9331-4ce4-87b9-c83ce4d47ef1" height="180" width="180">
+        <td align="center" style="vertical-align: top; width: 33.33%;">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/f15f0994-9331-4ce4-87b9-c83ce4d47ef1" height="180" width="180" style="max-width: 100%; height: auto;">
             <br>
             <strong>🎨 곽주영</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-007acc">
-            <div style="display: flex; align-items: center;">
-                 <strong>FE 설계 및 구현</strong>
-            <br>
-            <p>프론트엔드 개발 및 최적화를 담당</p>
+            <div style="display: flex; align-items: center; margin-top: 10px;">
+                <strong>FE 설계 및 구현</strong>
+                <br>
+                <p>프론트엔드 개발 및 최적화를 담당</p>
+            </div>
         </td>
-        <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/c3402f3d-4b2b-4200-a4fc-b6d2d4b7b9a6" height="180" width="180">
+        <td align="center" style="vertical-align: top; width: 33.33%;">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/c3402f3d-4b2b-4200-a4fc-b6d2d4b7b9a6" height="180" width="180" style="max-width: 100%; height: auto;">
             <br>
             <strong>🎨 정성한</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-007acc">
-            <div style="display: flex; align-items: center;">
-                 <strong>FE 구현 및 디자인</strong>
-            <br>
-            <p>프론트엔드 개발과 친화적인 UI/UX를 담당</p>
+            <div style="display: flex; align-items: center; margin-top: 10px;">
+                <strong>FE 구현 및 디자인</strong>
+                <br>
+                <p>프론트엔드 개발과 친화적인 UI/UX를 담당</p>
+            </div>
         </td>
-        <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04" height="180" width="180">
+        <td align="center" style="vertical-align: top; width: 33.33%;">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04" height="180" width="180" style="max-width: 100%; height: auto;">
             <br>
             <strong>🎨 안순현</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
-           <div style="display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/FrontEnd-007acc" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/BackEnd-404040">
-           <div style="margin-top: 10px;">
-            <strong>FE/BE 설계 및 구현</strong>
-            <br>
-            <p>프론트/백엔드의 전반적인 개발 담당</p>
-           </div>
-        </div>
-        </td>
-    </tr>
-</table>
+            <div style="display: flex; align-items: center;">
+                <img src="https://img.shields.io/badge/FrontEnd-007acc" style="margin-righ
 
 
 ### [프로젝트 개요]
