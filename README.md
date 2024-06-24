@@ -12,7 +12,7 @@ readme 틀 짜고 있는중입니다.
 <table>
     <tr>
         <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/baaede75-c7b1-4af9-9839-fd6b0365961c.jpg" height="180" width="180">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/baaede75-c7b1-4af9-9839-fd6b0365961c" height="180" width="180">
             <br>
             <strong>👑 이병학</strong>
             <br>
@@ -25,9 +25,9 @@ readme 틀 짜고 있는중입니다.
             <img src="https://img.shields.io/badge/-Development%20leader-green">
         </td>
         <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/f15f0994-9331-4ce4-87b9-c83ce4d47ef1.jpg" height="180" width="180">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5a5660a3-ac07-4c39-a792-944ee1edbd83" height="180" width="180">
             <br>
-            <strong>🎨 곽주영</strong>
+            <strong>💻 윤영준</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
@@ -36,9 +36,9 @@ readme 틀 짜고 있는중입니다.
             <img src="https://img.shields.io/badge/-Design%20leader-purple">
         </td>
         <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04.jpg" height="180" width="180">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5eb5bde5-261d-4e4c-ba43-11c1d0c2de05" height="180" width="180">
             <br>
-            <strong>🎨 정성한</strong>
+            <strong>📈 이윤주</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
@@ -49,9 +49,9 @@ readme 틀 짜고 있는중입니다.
     </tr>
     <tr>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/101047198/210600051-9a57a0fb-9d5b-4c6e-973a-8b95db914b34.jpg" height="180" width="180">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/f15f0994-9331-4ce4-87b9-c83ce4d47ef1" height="180" width="180">
             <br>
-            <strong>🎨 안순현</strong>
+            <strong>🎨 곽주영</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
@@ -62,7 +62,7 @@ readme 틀 짜고 있는중입니다.
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/c3402f3d-4b2b-4200-a4fc-b6d2d4b7b9a6" height="180" width="180">
             <br>
-            <strong>💻 윤영준</strong>
+            <strong>🎨 정성한</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
@@ -71,9 +71,9 @@ readme 틀 짜고 있는중입니다.
             <img src="https://img.shields.io/badge/-Tech%20Leader-blue">
         </td>
         <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5a5660a3-ac07-4c39-a792-944ee1edbd83" height="180" width="180">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04" height="180" width="180">
             <br>
-            <strong>📈 이윤주</strong>
+            <strong>🎨 안순현</strong>
             <br>
             <strong>github:</strong> [링크]
             <br>
