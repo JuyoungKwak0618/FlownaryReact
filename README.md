@@ -51,9 +51,9 @@ readme 틀 짜고 있는중입니다.
             <br>
             <img src="https://img.shields.io/badge/-Work%20Management%20-f67280">
              <div style="display: flex; align-items: center;">
-                 <strong>BE 설계 및 구현</strong>
+                 <strong>기획</strong>
             <br>
-            <p>백엔드 전체적인 개발을 책임 및 담당</p>
+            <p>프로젝트 기획 및 관리를 담당</p>
         </div>
         </td>
     </tr>
