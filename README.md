@@ -9,6 +9,7 @@ readme 틀 짜고 있는중입니다.
 주제: SNS 사이트 만들기<br/>
 사용 언어: JS (React)<br/>
 
+<h2>🌟팀원 소개🌟</h2>
 <table>
     <tr>
         <td align="center" style="height: 250px">
