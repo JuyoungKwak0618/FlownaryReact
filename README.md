@@ -12,13 +12,11 @@ readme 틀 짜고 있는중입니다.
 <table>
     <tr>
         <td align="center">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/baaede75-c7b1-4af9-9839-fd6b0365961c" height="180" width="180" style="margin-top:10px">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/baaede75-c7b1-4af9-9839-fd6b0365961c" height="180" width="180">
             <br>
             <strong>👑 이병학</strong>
             <br>
             <strong>github:</strong> [링크]
-            <br>
-            <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
             <br>
             <img src="https://img.shields.io/badge/-Team%20leader-yellow">
             <br>
