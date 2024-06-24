@@ -38,8 +38,6 @@ readme 틀 짜고 있는중입니다.
             <br>
             <strong>github:</strong> [링크]
             <br>
-            <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
-            <br>
             <img src="https://img.shields.io/badge/-Work%20Management%20-f67280">
         </td>
     </tr>
@@ -52,8 +50,6 @@ readme 틀 짜고 있는중입니다.
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Communication%20Leader-orange">
         </td>
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/c3402f3d-4b2b-4200-a4fc-b6d2d4b7b9a6" height="180" width="180">
@@ -63,8 +59,6 @@ readme 틀 짜고 있는중입니다.
             <strong>github:</strong> [링크]
             <br>
              <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Tech%20Leader-blue">
         </td>
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/563dd1c4-4ecc-4aa2-a638-396107328e04" height="180" width="180">
@@ -74,8 +68,6 @@ readme 틀 짜고 있는중입니다.
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
-            <br>
-            <img src="https://img.shields.io/badge/-Project%20Management%20Leader-green">
         </td>
     </tr>
 </table>
