@@ -35,7 +35,12 @@ readme 틀 짜고 있는중입니다.
             <br>
             <strong>github:</strong> [링크]
             <br>
+             <div style="display: flex; align-items: center;">
             <img src="https://img.shields.io/badge/DataBase-008000">
+                 <strong>BE 설계 및 구현</strong>
+            <br>
+            <p>백엔드 전체적인 개발을 책임 및 담당</p>
+        </div>
         </td>
         <td align="center">
             <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5eb5bde5-261d-4e4c-ba43-11c1d0c2de05" height="180" width="180">
