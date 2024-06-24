@@ -29,7 +29,7 @@ readme 틀 짜고 있는중입니다.
             <br>
             <strong>github:</strong> [링크]
             <br>
-            <img src="https://img.shields.io/badge/FrontEnd-3f97fb">
+            <img src="https://img.shields.io/badge/Database-3f97fb">
             <br>
             <img src="https://img.shields.io/badge/-Design%20leader-purple">
         </td>
