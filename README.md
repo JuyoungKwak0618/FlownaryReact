@@ -50,6 +50,11 @@ readme 틀 짜고 있는중입니다.
             <strong>github:</strong> [링크]
             <br>
             <img src="https://img.shields.io/badge/-Work%20Management%20-f67280">
+             <div style="display: flex; align-items: center;">
+                 <strong>BE 설계 및 구현</strong>
+            <br>
+            <p>백엔드 전체적인 개발을 책임 및 담당</p>
+        </div>
         </td>
     </tr>
     <tr>
