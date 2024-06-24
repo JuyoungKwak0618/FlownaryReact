@@ -30,7 +30,7 @@ readme 틀 짜고 있는중입니다.
 </div>
         </td>
         <td align="center" style="height: 250px">
-            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/7ba86b85-1c1e-47d4-b65f-ee67e52f6d6f" height="180" width="180">
+            <img src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/5a5660a3-ac07-4c39-a792-944ee1edbd83" height="180" width="180">
             <br>
             <strong>💻 윤영준</strong>
             <br>
