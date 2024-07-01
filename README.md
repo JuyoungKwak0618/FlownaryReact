@@ -16,7 +16,7 @@
             <br>
             <strong>👑 이병학</strong>
             <br>
-        <strong>github: <a href="https://github.com/Tetrodomino">이병학</a></strong>
+        <strong>github: <a href="https://github.com/Tetrodomino">Tetrodomino</a></strong>
             <br>
             <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-Team%20Leader-yellow" style="margin-right: 10px;">
@@ -33,7 +33,7 @@
             <br>
             <strong>💻 윤영준</strong>
             <br>
-            <strong>github:</strong> [링크]
+           <strong>github: <a href="https://github.com/yeoungjunyoon">yeoungjunyoon</a></strong>
             <br>
             <img src="https://img.shields.io/badge/DataBase-008000">
              <div style="display: flex; align-items: center;">
@@ -47,7 +47,7 @@
             <br>
             <strong>✏️ 이윤주</strong>
             <br>
-            <strong>github:</strong> [링크]
+            <strong>github: <a href="https://github.com/raisedeveloper">raisedeveloper</a></strong>
             <br>
             <img src="https://img.shields.io/badge/-Work%20Management%20-f67280">
              <div style="display: flex; align-items: center;">
