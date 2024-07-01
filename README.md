@@ -17,7 +17,7 @@ readme 틀 짜고 있는중입니다.
             <br>
             <strong>👑 이병학</strong>
             <br>
-            <strong>github:</strong> [링크]
+            <strong>github:(https://github.com/Tetrodomino)</strong>
             <br>
             <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-Team%20Leader-yellow" style="margin-right: 10px;">
