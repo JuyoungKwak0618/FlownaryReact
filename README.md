@@ -63,7 +63,7 @@
             <br>
             <strong>🎨 곽주영</strong>
             <br>
-            <strong>github:</strong> [링크]
+            <strong>github: <a href="https://github.com/JuyoungKwak0618">JuyoungKwak0618</a></strong>
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-007acc">
             <div style="display: flex; align-items: center;">
@@ -77,7 +77,7 @@
             <br>
             <strong>🎨 정성한</strong>
             <br>
-            <strong>github:</strong> [링크]
+           <strong>github: <a href="https://github.com/JeongSunghan">JeongSunghan</a></strong>
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-007acc">
             <div style="display: flex; align-items: center;">
@@ -90,7 +90,7 @@
             <br>
             <strong>🎨 안순현</strong>
             <br>
-            <strong>github:</strong> [링크]
+           <strong>github: <a href="https://github.com/SoonHyunAn">SoonHyunAn</a></strong>
             <br>
            <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/FrontEnd-007acc" style="margin-right: 10px;">
