@@ -1,4 +1,3 @@
-readme 틀 짜고 있는중입니다.
 # <span id="top"> Flownary </span>
 <img width="840" height="600" src="https://github.com/JuyoungKwak0618/FlownaryReact/assets/155405909/bdfe39bb-3b23-421b-a3b2-4e11cc912a61">
 
@@ -17,7 +16,7 @@ readme 틀 짜고 있는중입니다.
             <br>
             <strong>👑 이병학</strong>
             <br>
-         <strong>github:[이병학](https://github.com/Tetrodomino)</strong>
+        <strong>github: <a href="https://github.com/Tetrodomino">이병학</a></strong>
             <br>
             <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-Team%20Leader-yellow" style="margin-right: 10px;">
